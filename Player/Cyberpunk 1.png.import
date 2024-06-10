@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bonwb7cm2jgfw"
-path="res://.godot/imported/Artefact 1.png-655ea9aad95d9b4d505ed722be4727be.ctex"
+uid="uid://db5qgrot3o1qt"
+path="res://.godot/imported/Cyberpunk 1.png-7bed46ce132c7a20a4b011d1daa82950.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Artefact 1.png"
-dest_files=["res://.godot/imported/Artefact 1.png-655ea9aad95d9b4d505ed722be4727be.ctex"]
+source_file="res://Player/Cyberpunk 1.png"
+dest_files=["res://.godot/imported/Cyberpunk 1.png-7bed46ce132c7a20a4b011d1daa82950.ctex"]
 
 [params]
 

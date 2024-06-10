@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://db5qgrot3o1qt"
-path="res://.godot/imported/Cyberpunk 1.png-172a1a62456b7cafc015fcf9be4ee1e0.ctex"
+uid="uid://cv17x8rigabh4"
+path="res://.godot/imported/Matraque.png-d0c894a300488785a6aaed61773cba76.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Player/Cyberpunk 1.png"
-dest_files=["res://.godot/imported/Cyberpunk 1.png-172a1a62456b7cafc015fcf9be4ee1e0.ctex"]
+source_file="res://Weapons/Matraque.png"
+dest_files=["res://.godot/imported/Matraque.png-d0c894a300488785a6aaed61773cba76.ctex"]
 
 [params]
 
